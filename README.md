@@ -1,6 +1,6 @@
 # The Principles of Solarpunk
 
-Solarpunk is a growing movement focused on creating a sustainable environment, social justice, and freedom and equality for all.
+Solarpunk is a growing movement focused on creating a sustainable environment, social justice, and freedom and equality for all. To read, please go to ./exports/principles.pdf
 
 ## How to Commit
 
