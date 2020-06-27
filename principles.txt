@@ -1,3 +1,10 @@
+---
+header-includes: 
+- \usepackage[document]{ragged2e}
+---
+
+
+
 # The Principles of Solarpunk
 
 Many years ago, the dark prophecy/warning of a cyberpunk future entered the public conciousness. Propelled by the increasing trend towards grittiness in Sci Fi (Illustrated in other popular works such as Star Wars, itself a shift away from the clean aluminum rockets of past sci-fi works) the works have embedded themselves into the public eye. Works such as Blade Runner and Neuromancer are staples. And yet, our culture has, in a way, collectively misintepreted these books, as new interpretations of those works (Such as the much-hyped Cyperpunk 2077) now highlight Cyberpunk not as a warning, but something *cool* that is strived for. It is time for a new movement and a new genre, a new depiction of the future, espiecally as our reality begins to veer off towards this dark prophecies. Solarpunk is that movement.
@@ -43,3 +50,4 @@ For most DIY builders, the only important design consideration in this regard is
 # How you can help
 
 This section is blank and needs contribution.
+
